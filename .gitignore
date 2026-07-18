@@ -1,0 +1,18 @@
+# Virtual Machines
+Virtual Machines/
+
+# ISO files
+ISO/
+
+# VirtualBox files
+*.vdi
+*.vhd
+*.vmdk
+*.vbox
+*.vbox-prev
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
